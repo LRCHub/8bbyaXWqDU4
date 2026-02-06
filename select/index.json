@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "HYS",
+  "base_artist": "Enfants",
+  "createdAt": "2026-02-06T21:56:23.589930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "hys-",
+      "artist": "Miwa",
+      "has_synced": true,
+      "path": "select/01_hys-_Miwa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HYS",
+      "artist": "Enfants",
+      "has_synced": true,
+      "path": "select/02_HYS_Enfants.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HYS",
+      "artist": "Latto feat. Key Glock",
+      "has_synced": true,
+      "path": "select/03_HYS_Latto_feat._Key_Glock.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HYS",
+      "artist": "Latto",
+      "has_synced": true,
+      "path": "select/04_HYS_Latto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hys",
+      "artist": "Yapoos",
+      "has_synced": false,
+      "path": "select/05_Hys_Yapoos.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "HYS (feat. Key Glock)",
+      "artist": "Latto",
+      "has_synced": true,
+      "path": "select/06_HYS_(feat._Key_Glock)_Latto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HYS (feat. Key Glock)",
+      "artist": "Latto; Key Glock",
+      "has_synced": true,
+      "path": "select/07_HYS_(feat._Key_Glock)_Latto;_Key_Glock.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HYS",
+      "artist": "Enfants",
+      "has_synced": false,
+      "path": "select/pl_01_HYS_Enfants.txt"
+    }
+  ]
+}
